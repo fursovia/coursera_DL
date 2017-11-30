@@ -1,2 +1,2 @@
 # coursera_DL
-This is a coursera specialization created by deeplearning.ai
+I this repository you can find my programming assignments for Deep Learning Specialization by deeplearning.ai
